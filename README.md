@@ -1,1 +1,1 @@
-# GitHubProject
+This is a GitHub project 
